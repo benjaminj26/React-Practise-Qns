@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="6.793">
+  <testsuite name="PropertyList component" errors="0" failures="0" skipped="0" timestamp="2025-07-17T10:22:42" time="3.359" tests="3">
+    <testcase classname="PropertyList component renders the list of properties" name="PropertyList component renders the list of properties" time="0.028">
+    </testcase>
+    <testcase classname="PropertyList component adds a new property to the list" name="PropertyList component adds a new property to the list" time="0.056">
+    </testcase>
+    <testcase classname="PropertyList component removes a property from the list" name="PropertyList component removes a property from the list" time="0.033">
+    </testcase>
+  </testsuite>
+</testsuites>

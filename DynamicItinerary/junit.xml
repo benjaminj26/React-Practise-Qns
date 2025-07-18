@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="8.413">
+  <testsuite name="Trip Component" errors="0" failures="0" skipped="0" timestamp="2025-07-17T07:14:34" time="4.091" tests="3">
+    <testcase classname="Trip Component adds a new destination" name="Trip Component adds a new destination" time="0.29">
+    </testcase>
+    <testcase classname="Trip Component removes a destination" name="Trip Component removes a destination" time="0.044">
+    </testcase>
+    <testcase classname=" simulates data fetching on initialization" name=" simulates data fetching on initialization" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>

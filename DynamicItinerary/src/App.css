@@ -1,0 +1,45 @@
+/* Trip.css */
+.trip-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.trip-heading {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.add-button {
+  margin-bottom: 10px;
+}
+/* Destination.css */
+.destination-container {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.destination-heading {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.destination-info {
+  margin-bottom: 10px;
+}
+
+.remove-button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.remove-button:hover {
+  background-color: #c82333;
+}

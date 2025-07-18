@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="13.024">
+  <testsuite name="App" errors="0" failures="0" skipped="0" timestamp="2025-07-18T05:40:47" time="6.998" tests="3">
+    <testcase classname="App renders search input and button" name="App renders search input and button" time="0.112">
+    </testcase>
+    <testcase classname="App displays loading message initially" name="App displays loading message initially" time="0.008">
+    </testcase>
+    <testcase classname="App performs search when search button is clicked" name="App performs search when search button is clicked" time="0.032">
+    </testcase>
+  </testsuite>
+</testsuites>

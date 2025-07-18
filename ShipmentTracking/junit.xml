@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="16.593">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2025-07-17T11:31:33" time="9.859" tests="3">
+    <testcase classname=" Empty Form Submission" name=" Empty Form Submission" time="0.045">
+    </testcase>
+    <testcase classname=" Invalid Sender and Receiver" name=" Invalid Sender and Receiver" time="0.016">
+    </testcase>
+    <testcase classname=" Valid Form Submission" name=" Valid Form Submission" time="0.21">
+    </testcase>
+  </testsuite>
+</testsuites>

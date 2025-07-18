@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="12.074">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2025-07-17T12:32:49" time="6.833" tests="5">
+    <testcase classname=" renders initial list of locations correctly" name=" renders initial list of locations correctly" time="0.405">
+    </testcase>
+    <testcase classname=" adds new location to the list" name=" adds new location to the list" time="0.074">
+    </testcase>
+    <testcase classname=" removes location from the list" name=" removes location from the list" time="0.013">
+    </testcase>
+    <testcase classname=" does not add duplicate locations" name=" does not add duplicate locations" time="0.015">
+    </testcase>
+    <testcase classname=" logs message to console on props change" name=" logs message to console on props change" time="0.009">
+    </testcase>
+  </testsuite>
+</testsuites>

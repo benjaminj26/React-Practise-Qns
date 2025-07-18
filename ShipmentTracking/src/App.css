@@ -1,0 +1,46 @@
+/* ShipmentForm.css */
+
+.shipment-form-container {
+  margin-top: 20px;
+}
+
+.shipment-form-label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.shipment-form-input {
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 12px;
+}
+
+.shipment-form-error {
+  color: red;
+  margin-top: 4px;
+  display: block;
+}
+/* ShipmentTracker.css */
+
+.shipment-tracker-container {
+  margin-top: 20px;
+}
+
+.tracker-label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.tracker-input {
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 12px;
+}
+
+.tracker-error {
+  color: red;
+  margin-top: 4px;
+}
+

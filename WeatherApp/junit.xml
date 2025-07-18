@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="9.419">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2025-07-18T05:00:42" time="4.522" tests="3">
+    <testcase classname=" displays temperature in selected format" name=" displays temperature in selected format" time="0.052">
+    </testcase>
+    <testcase classname=" updates temperature when input is changed" name=" updates temperature when input is changed" time="0.008">
+    </testcase>
+    <testcase classname=" temperatureFunction correctly converts temperature" name=" temperatureFunction correctly converts temperature" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
