@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="8.475">
+  <testsuite name="PropertyDetail component" errors="0" failures="0" skipped="0" timestamp="2025-07-21T10:14:14" time="4.725" tests="4">
+    <testcase classname="PropertyDetail component renders property details when data is fetched successfully" name="PropertyDetail component renders property details when data is fetched successfully" time="0.093">
+    </testcase>
+    <testcase classname="PropertyDetail component displays error message when data fetching fails" name="PropertyDetail component displays error message when data fetching fails" time="0.013">
+    </testcase>
+    <testcase classname="PropertyList component renders list of properties when data is fetched successfully" name="PropertyList component renders list of properties when data is fetched successfully" time="0.347">
+    </testcase>
+    <testcase classname="PropertyList component displays error message when data fetching fails" name="PropertyList component displays error message when data fetching fails" time="0.005">
+    </testcase>
+  </testsuite>
+</testsuites>

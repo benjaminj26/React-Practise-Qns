@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="4" failures="0" errors="0" time="8.537">
-  <testsuite name="PatientForm" errors="0" failures="0" skipped="0" timestamp="2025-07-18T09:51:01" time="4.418" tests="4">
-    <testcase classname="PatientForm Verify form submission with all valid inputs" name="PatientForm Verify form submission with all valid inputs" time="0.244">
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="7.226">
+  <testsuite name="PatientForm" errors="0" failures="0" skipped="0" timestamp="2025-07-18T10:06:15" time="2.749" tests="4">
+    <testcase classname="PatientForm Verify form submission with all valid inputs" name="PatientForm Verify form submission with all valid inputs" time="0.225">
     </testcase>
-    <testcase classname="PatientForm Verify form submission with empty mandatory fields" name="PatientForm Verify form submission with empty mandatory fields" time="0.017">
+    <testcase classname="PatientForm Verify form submission with empty mandatory fields" name="PatientForm Verify form submission with empty mandatory fields" time="0.018">
     </testcase>
-    <testcase classname="PatientForm Check that the date of birth is not a future date" name="PatientForm Check that the date of birth is not a future date" time="0.02">
+    <testcase classname="PatientForm Check that the date of birth is not a future date" name="PatientForm Check that the date of birth is not a future date" time="0.021">
     </testcase>
-    <testcase classname="PatientForm Ensure proper error messages are displayed for both valid and invalid data entries" name="PatientForm Ensure proper error messages are displayed for both valid and invalid data entries" time="0.02">
+    <testcase classname="PatientForm Ensure proper error messages are displayed for both valid and invalid data entries" name="PatientForm Ensure proper error messages are displayed for both valid and invalid data entries" time="0.018">
     </testcase>
   </testsuite>
 </testsuites>

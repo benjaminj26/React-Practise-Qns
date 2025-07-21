@@ -1,0 +1,123 @@
+.add-property-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.add-property-container h2 {
+  margin-bottom: 20px;
+}
+
+.add-property-container input[type="text"] {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.add-property-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-property-container button:hover {
+  background-color: #0056b3;
+}
+
+.property-detail-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.property-detail-container h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.property-detail-container p {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.loading-container {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.error-container {
+  font-size: 18px;
+  color: red;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* PropertyList.css */
+
+.property-list-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.property-list-header {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.property-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.property-list-item {
+  margin-bottom: 10px;
+}
+
+.property-link {
+  margin-left: 10px;
+  color: blue;
+  text-decoration: none;
+}
+
+.property-link:hover {
+  text-decoration: underline;
+}
+
+/* Navbar.css */
+
+.navbar {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.navbar-link {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.navbar-link:hover {
+  text-decoration: underline;
+}
+
+
+

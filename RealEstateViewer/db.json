@@ -1,0 +1,31 @@
+{
+  "properties": [
+    {
+      "id" : "1",
+      "propertyID": "001",
+      "type": "Apartment",
+      "location": "Downtown",
+      "price": "$250,000",
+      "rooms": "3",
+      "size": "1500 sq.ft"
+    },
+    {
+      "id" : "2",
+      "propertyID": "002",
+      "type": "Villa",
+      "location": "Suburb",
+      "price": "$500,000",
+      "rooms": "5",
+      "size": "3000 sq.ft"
+    },
+    {
+      "id" : "3",
+      "propertyID": "003",
+      "type": "Apartment",
+      "location": "City",
+      "price": "$300,000",
+      "rooms": "3",
+      "size": "1800 sq.ft"
+    }
+  ]
+}

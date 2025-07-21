@@ -1,0 +1,69 @@
+{
+  "professors": [
+    {
+      "id": "1",
+      "name": "Dr. John Smith",
+      "email": "john.smith@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Dr. Jane Doe",
+      "email": "drjane.doe@example.com"
+    },
+    {
+      "id": "533a",
+      "name": "ahmad",
+      "email": "ahmad@gmail.com"
+    },
+    {
+      "id": "3256",
+      "name": "atif",
+      "email": "a@gmail.com"
+    },
+    {
+      "id": "5840",
+      "name": "test",
+      "email": "t@gmail.com"
+    },
+    {
+      "id": "16a6",
+      "name": "load",
+      "email": "load@gmail.com"
+    },
+    {
+      "id": "a16d",
+      "name": "a",
+      "email": "a@g.com"
+    },
+    {
+      "id": "08ac",
+      "name": "where",
+      "email": "what@g.com"
+    },
+    {
+      "id": "2e03",
+      "name": "ag",
+      "email": "og@g.com"
+    },
+    {
+      "id": "49fb",
+      "name": "jj",
+      "email": "j@w.com"
+    },
+    {
+      "id": "cb90",
+      "name": "ahmad",
+      "email": "a@gmail.com"
+    },
+    {
+      "id": "a120",
+      "name": "ahmad",
+      "email": "admin-pharmacy@gmail.com"
+    },
+    {
+      "name": "Addu",
+      "email": "addu@ust.com",
+      "id": "vSlWWx0"
+    }
+  ]
+}
